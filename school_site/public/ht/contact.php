@@ -546,7 +546,7 @@ if ($isLoggedIn) {
                     </div>
                 </div>
                 
-                <h3 style ="position: absolute; bottom: -95px;">Emergency Hotlines</h3>
+                <h3 style ="position: absolute; bottom: -55px;">Emergency Hotlines</h3>
                 <table>
                     <thead>
                         <tr>
