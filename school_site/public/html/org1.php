@@ -188,7 +188,7 @@ $dashboardLink = '../home.php';
 
     <div class="article-navigation">
         <div></div>
-        <a href="org2.php" class="next-article">Next Article &gt;</a>
+        <a href="org2.php" class="next-article">Next Org &gt;</a>
     </div>
 
 </div>
@@ -229,5 +229,5 @@ $dashboardLink = '../home.php';
                 </div>
     </footer>
 
-                </body>
-                </html>
+    </body>
+</html>
